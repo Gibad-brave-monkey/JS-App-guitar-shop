@@ -1,0 +1,44 @@
+[
+    {
+        "id": "el1",
+        "name": "FENDER SQUIER MM STRATOCASTER HARD TAIL RED",
+        "img": "https://www.muztorg.ru/files/a48/aue/rcb/688/skk/sog/os4/0og/s/a48auercb688skksogos40ogs.jpg",
+        "price": 12400
+    },
+    {
+        "id": "el2",
+        "name": "IBANEZ GIO GRG121DX-BKF BLACK FLAT",
+        "img": "https://www.muztorg.ru/files/3xr/rcc/s92/8mc/k8w/k48/0gw/s8c/g/3xrrccs928mck8wk480gws8cg.jpg",
+        "price": 24400
+    },
+    {
+        "id": "el3",
+        "name": "EPIPHONE Les Paul Special VE Ebony Vintage",
+        "img": "https://www.muztorg.ru/files/alg/pti/ywe/uww/s0o/804/k84/08k/g/algptiyweuwws0o804k8408kg.jpg",
+        "price": 26100
+    },
+    {
+        "id": "el4",
+        "name": "EPIPHONE LES PAUL STUDIO LT Ebony",
+        "img": "https://www.muztorg.ru/files/aea/vjj/tph/lkc/84o/s00/4gw/8gc/o/aeavjjtphlkc84os004gw8gco.jpg",
+        "price": 35000
+    },
+    {
+        "id": "el5",
+        "name": "IBANEZ GRX70QA-TRB",
+        "img": "https://www.muztorg.ru/files/4fx/iwk/t1k/2w4/swk/oo4/wg4/cww/4fxiwkt1k2w4swkoo4wg4cww0.jpg",
+        "price": 23100
+    },
+    {
+        "id": "el6",
+        "name": "JACKSON JS22 DK, AH FB- SBK",
+        "img": "https://www.muztorg.ru/files/7qs/tqw/ny4/xwk/o80/48k/o8c/0ks/o/7qstqwny4xwko8048ko8c0kso.jpg",
+        "price": 29500
+    },
+    {
+        "id": "el7",
+        "name": "EPIPHONE SG-Special VE Ebony",
+        "img": "https://www.muztorg.ru/files/23z/kue/gdv/m9w/cog/k8s/8c0/oss/o/23zkuegdvm9wcogk8s8c0osso.jpg",
+        "price": 26100
+    }
+]
